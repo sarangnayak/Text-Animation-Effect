@@ -28,3 +28,14 @@ CSS3 with CSS Variables
 Vanilla JavaScript
 
 CSS Animations & Transitions
+
+🚀 Quick Start
+bash
+# Clone the repository
+git clone https://github.com/sarangnayak/Text-Animation-Effect
+
+# Navigate to project directory
+cd Text-Animation-Effect
+
+# Open in browser
+open index.html
