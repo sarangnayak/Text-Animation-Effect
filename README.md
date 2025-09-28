@@ -1,6 +1,6 @@
 # Text-Animation-Effect
 # Create directory structure
-mkdir -p Text-Animation-Effect/{styles,scripts,{images,docs}}
+mkdir -p Text-Animation-Effect/{styles,scripts,/{images,docs}}
 
 # Navigate to project
 cd Text-Animation-Effect
