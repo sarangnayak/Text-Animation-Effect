@@ -2,7 +2,7 @@
 Text Animation Effects
 A collection of modern, performant text animation effects built with vanilla JavaScript and CSS.
 
-https://images/preview.png
+![Hero Section Preview](images/preview.png)
 
 ✨ Features
 Multiple Animation Styles - Typewriter, scramble, fade, and more
