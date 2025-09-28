@@ -1,18 +1,30 @@
 # Text-Animation-Effect
-# Create directory structure
-mkdir -p Text-Animation-Effect/{styles,scripts,/{images,docs}}
+Text Animation Effects
+A collection of modern, performant text animation effects built with vanilla JavaScript and CSS.
 
-# Navigate to project
-cd Text-Animation-Effect
+https://images/preview.png
 
-# Initialize git
-git init
+✨ Features
+Multiple Animation Styles - Typewriter, scramble, fade, and more
 
-# Add your files (index.html, CSS, JS, etc.)
-# Then commit and push to GitHub
+Performance Optimized - Smooth 60fps animations
 
-git add .
-git commit -m "Initial commit: Text Animation Effects"
-git branch -M main
-git remote add origin https://github.com/sarangnayak/Text-Animation-Effect.git
-git push -u origin main
+Zero Dependencies - Pure vanilla JavaScript
+
+Lightweight - Minimal bundle size
+
+Easy to Customize - Simple configuration options
+
+Responsive Design - Works on all devices
+
+🎯 Live Demo
+View Live Demo
+
+🛠️ Technologies Used
+HTML5
+
+CSS3 with CSS Variables
+
+Vanilla JavaScript
+
+CSS Animations & Transitions
