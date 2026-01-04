@@ -39,3 +39,4 @@ cd Text-Animation-Effect
 
 # Open in browser
 open index.html
+
